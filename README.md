@@ -4,7 +4,7 @@
 
 - [Active AIO Tools V3.1.3](https://1drv.ms/u/s!AkwSBX-xWiVhgReolwU8a9uuJrz7?e=5ozreC)
 - [Online KMS Activation Script v6.0](https://github.com/Sale-Office365/Windows8-8.1/files/10002218/Online.KMS.Activation.Script.v6.0.txt)
-- [MAS 1.5 AIO CRC32 21D20776](https://github.com/Sale-Office365/Windows8-8.1/files/10002222/MAS.1.5.AIO.CRC32.21D20776.txt)
+- [MAS 1.5 AIO CRC32 21D20776](https://github.com/Sale-Office365/Windows8-8.1/files/10002222/MAS.1.5.AIO.CRC32.21D20776.txt) hoặc [MAS UPDATE](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=40ciuC)
 
 ## KÍCH HOẠT BẰNG CMD ##
 
